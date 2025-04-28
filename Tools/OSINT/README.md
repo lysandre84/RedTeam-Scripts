@@ -1,0 +1,25 @@
+# OSINT Tools
+
+- spiderfoot - Cartographie automatisée OSINT et surface d’attaque
+- reconftw - Recon et vulnérabilités sous-domaines
+- subzy - Vérificateur de vuln vulnérabilité sous-domaine takeover
+- smtp-user-enum - énumération d’utilisateurs SMTP
+- crt.sh + httprobe + EyeWitness - capture d’écran domain
+- jsendpoints - Extraire liens DOM
+- nuclei - Scanner de vulnérabilité
+- certSniff - sniff certificat transparency
+- gobuster - brute_force chemins Web
+- feroxbuster - découverte rapide (Rust)
+- CloudBrute - force brute infra cloud
+- dnsrecon - énumération DNS
+- aort - All in One Recon Tool
+- spoofcheck - vérif SPF/DMARC
+- AWSBucketDump - énumération bucket S3
+- GitHarvester - recherche cred GitHub
+- truffleHog - scanner secrets GitHub
+- Dismap - identification actifs
+- enum4linux - enum Windows/Samba
+- skanuvaty - scanner dns/réseau rapide
+- Metabigor - outil OSINT sans API
+- Gitrob - scanner info sensibles GitHub
+- gowitness - capture écran Web headless Chrome

